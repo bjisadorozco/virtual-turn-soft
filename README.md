@@ -74,6 +74,7 @@ npm install
 3. Ejecutar en desarrollo:
 
 npm run dev
+
 4. Construir para producción:
 
 npm run build
