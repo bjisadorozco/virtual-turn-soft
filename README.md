@@ -1,4 +1,4 @@
-### Sistema de Gestión de Turnos Virtuales 🏥
+# Sistema de Gestión de Turnos Virtuales 🏥
 
 ![alt text](image.png)
 Interfaz principal del sistema de turnos
@@ -17,9 +17,9 @@ Sistema web para la gestión de turnos en consultorios médicos, desarrollado co
 
 * 🚀 Generación automática de turnos con 3 categorías:
 
-    1. General
-    2. Prioritario (adultos mayores/embarazadas)
-    3. Retiro de exámenes
+1. General
+2. Prioritario (adultos mayores/embarazadas)
+3. Retiro de exámenes
 
 * 📌 Pantalla pública con temporizador de atención
 
