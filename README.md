@@ -1,4 +1,4 @@
-### Sistema de Gestión de Turnos Médicos 🏥
+### Sistema de Gestión de Turnos Virtuales 🏥
 
 ![alt text](image.png)
 Interfaz principal del sistema de turnos
